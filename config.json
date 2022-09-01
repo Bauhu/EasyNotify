@@ -1,0 +1,15 @@
+[
+    {
+      "device": "3194828",
+      "key": "A",
+      "name": "Under desk light switch",
+      "event": "ON"
+    },
+    {
+      "device": "3194828",
+      "key": "B",
+      "name": "Under desk light switch",
+      "event": "OFF"
+    }
+
+  ]
